@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Aaron Thomas",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/IMG_3290(1).jpg",
+    "email": "at49@hawaii.edu",
+    "phone": "808-476-4480",
+    "website": "https://aaron-toomas.github.io",
+    "summary": "I am studying for a B.S. in Computer Science-Security Science in the Department of Information and Computer Sciences as well as B.A. in Biochemistry at the Department of Chemistry at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "2033 Nuuanu Ave",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "aaron-toomas",
+        "url": "http://github.com/aaron-toomas"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Aaron Thomas",
+        "url": "https://www.linkedin.com/in/aaron-thomas-44b11621b/"
       }
     ]
   },
@@ -46,14 +36,15 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computer Networking",
       "keywords": [
+        "Active Directory",
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Security",
       "keywords": [
-      ]
+       ]
     }
   ],
   "skills": [
@@ -64,9 +55,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,21 +63,20 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "FreeBSD",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2023)",
+      "area": "BioChemistry (expected Spring, 2023),
+      "studyType": "B.S. and B.A.",
+      "startDate": "2019-08-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.54",
       "courses": [
       ]
     }
