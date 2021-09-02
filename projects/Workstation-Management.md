@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Workstation Management
-permalink: projects/Workstation-Management
+permalink: projects/Workstation Management
 date: 2021-09-02
 labels:
   - PDQ
