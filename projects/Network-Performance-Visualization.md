@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Dashboard.jpg
+image: images/Dashboard1.jpg
 title: Network Performance Visualization
 permalink: projects/Network Performance Visualization
 date: 2021-09-02
