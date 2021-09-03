@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/NetworkRack.jpg
+image: images/NetworkRack1.jpg
 title: Network Implementation
 permalink: projects/Network Implementation
 date: 2021-09-02
