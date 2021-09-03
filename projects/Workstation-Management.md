@@ -9,7 +9,8 @@ labels:
   - PDQ
   - Active Directory
   - Workstation Deployment
-  - Port-Based VLANs. 
+  - Port-Based VLANs
+  - KVM Switches 
 summary: Implemented and maintained a new hierarchical network structure for the computer labs in the Information Computer Sciences Department at the University of Hawaii.  
 ---
 <div class="ui large rounded images">
