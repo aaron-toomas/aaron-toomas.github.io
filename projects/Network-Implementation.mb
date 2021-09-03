@@ -14,3 +14,6 @@ summary: Implemented and maintained a new hierarchical network structure for the
 
 The network structure present in the computer labs used to be flat, with no distinct layers between each switch causing congestion on the network. A three-tier network structure was implemented to increase bandwidth and remove bottlenecks that were previously present. My coworkers and I set up wall plates, ran ethernet cables, patched keystones, and configured switches to finish the project. It took us two months to complete all the necessary steps including removing the old network and setting up our own. Currently, we maintain the structure and upgrade parts of it when we obtain better components. 
 This project gave me experience breaking down a big project into smaller components that build upon each other. It also improved my understanding of network hierarchy and the physical component of a computer network.
+
+Cover Photo by <a href="https://unsplash.com/@thomasjsn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Jensen</a> on <a href="https://unsplash.com/s/photos/network-rack?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
