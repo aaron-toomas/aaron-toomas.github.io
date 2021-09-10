@@ -85,7 +85,7 @@
     {
       "company": "UH at Manoa ICS Dept.",
       "position": "Assistant Computer Technician",
-      "website": "",
+      "website": "https://www.ics.hawaii.edu",
       "startDate": "2019-10",
       "endDate": "Present",
       "summary": "ICS Helpdesk Support, and Assistant to IT System Admin",
@@ -95,15 +95,16 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Volcom",
+      "position": "Retail Supervisor",
+      "website": "http://www.volcom.com",
+      "startDate": "2018-11",
+      "endDate": "2019-10",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted the manager and assistant manager with any issues",
+        "Promoted within 3 months for excellent customer service and outstanding weekly metrics",
+        "Made $56,418 in sales during the 3rd Quarter of 2019"
       ]
     }
   ],
