@@ -11,7 +11,7 @@ labels:
   - Learning Project
 summary: Implemented and maintained a new hierarchical network structure for the computer labs in the Information Computer Sciences Department at the University of Hawaii.  
 ---
-<div class="ui large rounded images">
+<div class="ui large images">
   <img class="ui image" src="../images/Network-Maintenance.jpg">
 </div>
 The network structure present in the computer labs used to be flat, with no distinct layers between each switch causing congestion on the network. The lab computers had network speeds at times due to this issue. A three-tier network structure was implemented to increase bandwidth and remove bottlenecks that were previously present.
