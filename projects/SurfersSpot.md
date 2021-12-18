@@ -32,6 +32,9 @@ It feels like I did a lot of the work on this project. I mainly focused on the �
 I learned a lot about CSS through this project. The background blur effect that is seen in the landing page of the project took me a while to figure out, but once I did it was very rewarded. I also learned that attention to detail like the blurred background makes a project look a lot nicer. The addition of background images on the popular and directory pages made the cards stand out more. I also had an appreciation of the documentation present on the semantic UI react page. There were many components that I was using for the first time in this project and the documentations was really helpful in figuring how things worked. 
 
 For more information:
+
 <a href = "https://github.com/surfers-spot/surfers-spot">Source Code</a>
-<a href = “https://surfers-spot.github.io/”>Github.io Page</a>
-<a href = “https://surfersspot.xyz/#/”>Current Deployment</a>
+
+<a href = "https://surfers-spot.github.io/">Github.io Page</a>
+
+<a href = "https://surfersspot.xyz/#/">Current Deployment</a>
