@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/SurfersSpotLogo.png
 title: Surfer's Spot Application
 permalink: projects/SurfersSpot
 date: 2021-12-17
