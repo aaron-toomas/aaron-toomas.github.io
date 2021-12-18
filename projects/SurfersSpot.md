@@ -16,7 +16,9 @@ summary: Web application for finding Surf Breaks on Oahu, created for the final 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/SurfersSpotLanding.png">
 </div>
+
 ### Overview
+
 For the final project for ICS 314, my group and I had to create a web application on finding information on surf breaks in Hawaii. It is similar to the site, <a href = "https://www.alltrails.com/"> All Trials</a>, which is an app for finding information on outdoor activities such as hiking, mountain biking, climbing, and snow sports. There is not a site like this for surfing, so we created one. The application was made with new and beginning surfers in mind to help them learn how and where to surf. The app contains a directory of surf breaks, information about surf lessons, and reviews that can be helpful for each surf break. We provided the name, difficulty, type, location, and a brief description of each surf break. There were random and popular buttons on the navigation bar which took a user to the corresponding page if they couldn’t decide where to go. This project was done using Meteor, React, Semantic UI, and MongoDB following Issue Driven Project Management. 
 
 ### Contribution
